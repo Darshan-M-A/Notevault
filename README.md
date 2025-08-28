@@ -1,4 +1,4 @@
-# NoteTaker - Full-Stack Note-Taking Application
+<img width="1880" height="908" alt="Screenshot 2025-08-28 191717" src="https://github.com/user-attachments/assets/03a91953-a032-4104-9b3d-074d049ebcfd" /># NoteTaker - Full-Stack Note-Taking Application
 
 A modern, responsive note-taking application built with React (TypeScript) and Node.js, featuring email/OTP authentication, Google OAuth, and real-time note management.
 
@@ -615,7 +615,8 @@ If you have any questions or issues, please:
 - [ ] Real-time collaboration
 - [ ] Rich text editor
 - [ ] File attachments
-- [ ] Tags and categories
+- [ ] Tags and categories![Uploading Screenshot 2025-08-28 191827.png…]()
+
 - [ ] Search functionality
 - [ ] Export options (PDF, Markdown)
 - [ ] Mobile app (React Native)
@@ -626,3 +627,12 @@ If you have any questions or issues, please:
 ---
 
 **Happy Coding! 🎉**
+
+<img width="1862" height="869" alt="Screenshot 2025-08-28 180151" src="https://github.com/user-attachments/assets/d60cf7b5-622f-4812-9df2-2cf0d00b3bb1" />
+<img width="1<img width="1826" height="844" alt="Screenshot 2025-08-28 191838" src="https://github.com/user-attachments/assets/803075cb-6358-49bc-9d19-5b592d82b0d6" />
+<img width="1883" height="891" alt="Screenshot 2025-08-28 191850" src="https://github.com/user-attachments/assets/ac2e90ec-95c2-45cf-b156-8f49720a577f" />
+<img width="1655" height="824" alt="Screenshot 2025-08-28 180122" src="https://github.com/user-attachments/assets/34139946-100a-461f-8580-ede475054f72" />
+<img width="1782" height="886" alt="Screenshot 2025-08-28 180138" src="https://github.com/user-attachments/assets/bd5df6e1-ef42-4929-981c-115e8d9861d8" />
+<img width="908" height="912" alt="Screenshot 2025-08-28 191706" src="https://github.com/user-attachments/assets/d5d1e156-530a-4871-8859-e8974c1bbeb5" />
+
+
