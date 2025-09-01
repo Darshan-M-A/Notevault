@@ -1,6 +1,6 @@
 <img width="1880" height="908" alt="Screenshot 2025-08-28 191717" src="https://github.com/user-attachments/assets/03a91953-a032-4104-9b3d-074d049ebcfd" /># NoteTaker - Full-Stack Note-Taking Application
 
-A modern, responsive note-taking application built with React (TypeScript) and Node.js, featuring email/OTP authentication, Google OAuth, and real-time note management.
+A modern, responsive note-taking application built with html,css and javascript featuring email/OTP authentication, Google OAuth, and real-time note management.
 
 ## 🚀 Features
 
